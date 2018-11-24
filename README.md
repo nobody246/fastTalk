@@ -11,4 +11,4 @@ It also allows one to add abbreviations for words (as defined in abbr.scm).
 
 Use this however you want (if anyone would even want to..), I'm not responsible for anything.
 
-Press tab for usage info.
+Press tab for usage info, escape to exit.
