@@ -49,6 +49,7 @@
                   (cdr k)))))
 
 (define (main)
+  (define w (initscr))
   (cbreak)
   (let ((c (getch))
         (curr-index #f))
