@@ -10,3 +10,5 @@ and sounding slightly more natural in conversation.
 It also allows one to add abbreviations for words (as defined in abbr.scm).
 
 Use this however you want (if anyone would even want to..), I'm not responsible for anything.
+
+Press tab for usage info.
