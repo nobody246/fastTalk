@@ -1,6 +1,5 @@
 (define abbr `((pl . "please")
-               (y .  "yes")
-               (n . "no")
+               (ye .  "yes")
                (ag . "again")
                (di . "dial")
                (th . "thanks")
