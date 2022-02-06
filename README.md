@@ -1,5 +1,5 @@
 # fastTalk
-A simple multi-speech-synthesis-compatible user interface, to make speech synthesis commence sooner than 
+A simple multi-speech-synthesizer-compatible user interface, to make speech synthesis commence sooner than 
 the completion of the sentence.
 
 A simple script that layers over one of any of the multiple command line accessible speech synthesis engines on Linux, 
